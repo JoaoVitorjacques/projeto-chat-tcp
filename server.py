@@ -1,4 +1,4 @@
-# ---server.py ---
+# ---client.py ---
 import socket
 import threading
 
